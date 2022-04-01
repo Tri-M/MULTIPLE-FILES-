@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1615956267 source:z:\point\point.cpp
+	"Point.h"
+	<iostream>
+
+1615956273 z:\point\point.h
+
+1615956279 source:z:\point\main.cpp
+	"Point.h"
+	<iostream>
+
+1615618014 source:z:\car.cpp
+	<iostream>
+	<conio.h>
+	<string>
+
